@@ -1,5 +1,5 @@
 def binAOctal(digitos):
-    # Convertir de binario a octal
+    # Convertir de binario a octa
 
     equivalenciasOctal = [[0, 0, 0],
                           [0, 0, 1],
